@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <mysql-connector-java.version>5.1.47</mysql-connector-java.version>
         <spring.version>4.3.20.RELEASE</spring.version>
-        <shiro.version>1.2.3</shiro.version>
+        <shiro.version>1.10.0</shiro.version>
         <jackson.version>2.9.7</jackson.version>
     </properties>
     <dependencies>
